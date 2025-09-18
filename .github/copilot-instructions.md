@@ -13,4 +13,11 @@ Avant chaque feature ou tache à réaliser:
 - dès que tu as l'id, tu vas rechercher sur le lien remote/origin l'issue. si tu la trouves, tu vas lire son contenu.
 - si tu ne la trouves pas, tu la crées sur github ou gitlab selon le lien remote/origin.
 - tu vas créer une branche nommée feature/{id-issue} ou bugfix/{id-issue} selon le type d'issue.
-- 
+- si le contenu de l'issue n'est pas clair, tu me le dis et tu attends ma réponse.
+- si le contenu de l'issue est clair, tu commences à travailler dessus.
+- une fois le travail terminé, tu vas commiter avec un message clair.
+- tu vas pousser ta branche sur le remote/origin.
+- tu vas faire un pull request sur le remote/origin.
+- je vais vérifier le code et le contenu de l'issue.
+- si tout est ok, je vais accepter le pull request.
+- si tout n'est pas ok, je vais demander à toi de corriger le code et le contenu de l'issue.
